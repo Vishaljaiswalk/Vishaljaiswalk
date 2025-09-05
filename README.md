@@ -12,8 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/@vishalj56929767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishalj56929767" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100015578654328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015578654328" height="30" width="40" /></a>
-<a href="https://instagram.com/vishaljaiswal4141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishaljaiswal4141" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalkumar4141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumar4141" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishaljaixzzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishaljaixzzv" height="30" width="40" /></a>
 </p>
