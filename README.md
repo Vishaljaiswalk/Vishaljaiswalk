@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaljaiswalk&label=Profile%20views&color=0e75b6&style=flat" alt="vishaljaiswalk" /> </p>
 
-- 📝 I regularly write articles on [https://mastersconnect.art/blog/](https://mastersconnect.art/blog/)
-
 - 💬 Ask me about **ML AND NLP**
 
 <h3 align="left">Connect with me:</h3>
